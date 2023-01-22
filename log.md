@@ -23,6 +23,6 @@
 
 **Today's Progress**: Attempted/Completed Some Exersices of JavaScript Algorithms and Data Structures From FreeCodeCamp.
 
-**Thoughts:** for me few exerecises(if else) took more time to solve.
+**Thoughts:** for me few exercises(if else) took more time to solve.
 
 **Link to work:**[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
