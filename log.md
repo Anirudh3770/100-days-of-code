@@ -29,10 +29,12 @@
 
 ### Day 3: February 2, 2023 
 
-**Today's Progress**: 1. Built a simple clock displays live time using html css js.
-                      2.Built a sudoku puzzle using javascript html css.
+**Today's Progress**: 
+
+1.Built a simple clock displays live time using html css js.<br>2.Built a sudoku puzzle using javascript html css.
 
 **Thoughts:**  after 10 days gap i have started coding today. i need to improve & work on more projects.
 
-**Link to work:** [Simple Analog clock](https://anirudh3770.github.io/simple-Clock/)
-                  [Sudoku Puzzle](https://anirudh3770.github.io/sudoku-Game/)
+**Link to work**:<br>
+[Simple Analog clock](https://anirudh3770.github.io/simple-Clock/) <br>
+[Sudoku Puzzle](https://anirudh3770.github.io/sudoku-Game/)
