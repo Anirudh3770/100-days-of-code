@@ -26,3 +26,11 @@
 **Thoughts:** for me few exercises(if else) took more time to solve.
 
 **Link to work:**[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+
+### Day 3: February 2, 2023 
+
+**Today's Progress**: Built a simple clock displays live time using html css js.
+
+**Thoughts:** after 10 days gap i have started coding today. i need to work on more projects.
+
+**Link to work:**[Simple Analog clock](https://anirudh3770.github.io/simple-Clock/)
