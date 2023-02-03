@@ -38,3 +38,10 @@
 **Link to work**:<br>
 [Simple Analog clock](https://anirudh3770.github.io/simple-Clock/) <br>
 [Sudoku Puzzle](https://anirudh3770.github.io/sudoku-Game/)
+
+### Day 4: February 3, 2023 
+
+**Today's Progress**: Tried to built an weather api app .
+
+**Thoughts:** used bootstrap so it took less time to built.
+
