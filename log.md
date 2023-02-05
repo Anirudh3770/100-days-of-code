@@ -45,3 +45,8 @@
 
 **Thoughts:** used bootstrap so it took less time to built.
 
+### Day 5: February 4, 2023 
+
+**Today's Progress**: Tried to learn integrating with api .
+
+
